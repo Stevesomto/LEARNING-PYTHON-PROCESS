@@ -1,0 +1,4 @@
+DAY 1: I learnt Python Programming Basis
+DAY 2: I learnt the syntax in Python Programming
+DAY 3: I learnt Data types in Python Programming
+DAY 4: I learnt File handing, writing and reading
