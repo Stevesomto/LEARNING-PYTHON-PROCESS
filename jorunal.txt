@@ -1,0 +1,2 @@
+Day 16: Today I learnt about writng file in Python. 
+Day 16: After the learning, I built a Daily Journal Logger App 
