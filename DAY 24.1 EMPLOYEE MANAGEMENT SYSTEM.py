@@ -95,7 +95,8 @@ def save_employee_to_csv(employee, filename='employees.csv'):
         writer = csv.writer(file)
         if not file_exists:
             # Write header if file does not exist
-            writer.writerow(['Name', 'Employee ID', 'Salary', 'Bonus', 'Role', 'Extra Info'])
+            writer.writerow(['Name', 'Employee ID', 'Salary', 'Bonus', 'Role', 'Extra Info']) # update
+            
 
         bonus = employee.calculate_bonus()
         if isinstance(employee, Manager):
