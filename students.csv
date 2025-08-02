@@ -1,4 +1,11 @@
+<<<<<<< HEAD
 Name,Math,Science,English
 Alice,85,90,88
 Bob,75,80,72
 Charlie,95,98,97
+=======
+Name,Math,Science,English
+Alice,85,90,88
+Bob,75,80,72
+Charlie,95,98,97
+>>>>>>> 5776d637b558ed6ad1589ad51c196b7c0d84fcfe

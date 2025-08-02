@@ -1,3 +1,9 @@
+<<<<<<< HEAD
 
 1. Spaghetti Bolognese
 2. Rice 
+=======
+
+1. Spaghetti Bolognese
+2. Rice 
+>>>>>>> 5776d637b558ed6ad1589ad51c196b7c0d84fcfe

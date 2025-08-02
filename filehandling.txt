@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 So Don't forget to debug it and know what the issue might be
+=======
+So Don't forget to debug it and know what the issue might be
+>>>>>>> 5776d637b558ed6ad1589ad51c196b7c0d84fcfe
 Please dont forget to do so

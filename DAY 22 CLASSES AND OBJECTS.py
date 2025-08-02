@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # A CLASS IS A BLUEPRINT FOR CREATING OBJECT
 # AN OBJECT IS AN INSTANCE OF A CLASS
 
@@ -16,3 +17,7 @@ my_car.display_info()
 
 your_car = Car("Toyota", "New model")
 your_car.display_info()
+=======
+# A CLASS IS A BLUEPRINT FOR CREATING OBJECT
+# AN OBJECT IS AN INSTANCE OF A CLASS
+>>>>>>> 5776d637b558ed6ad1589ad51c196b7c0d84fcfe

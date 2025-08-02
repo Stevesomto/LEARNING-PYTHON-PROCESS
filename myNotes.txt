@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 This is my first note in Python using the file handling note app. Please, save this file for me. I will call it up when i get advanced in Python. Thank you very much!  
+=======
+This is my first note in Python using the file handling note app. Please, save this file for me. I will call it up when i get advanced in Python. Thank you very much!  
+>>>>>>> 5776d637b558ed6ad1589ad51c196b7c0d84fcfe

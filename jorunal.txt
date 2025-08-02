@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 Day 16: Today I learnt about writng file in Python. 
+=======
+Day 16: Today I learnt about writng file in Python. 
+>>>>>>> 5776d637b558ed6ad1589ad51c196b7c0d84fcfe
 Day 16: After the learning, I built a Daily Journal Logger App 

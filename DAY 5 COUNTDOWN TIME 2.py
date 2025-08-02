@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 num1 =  int(input("Enter the first number:  ")):
 num2 =  int(input("Enter the second number:  ")):
 num3 =  int(input("Enter the third number:  ")):
@@ -5,3 +6,12 @@ num3 =  int(input("Enter the third number:  ")):
 sum1 = num1 + num2:
 sum2 = num3 + num2:
 
+=======
+num1 =  int(input("Enter the first number:  ")):
+num2 =  int(input("Enter the second number:  ")):
+num3 =  int(input("Enter the third number:  ")):
+
+sum1 = num1 + num2:
+sum2 = num3 + num2:
+
+>>>>>>> 5776d637b558ed6ad1589ad51c196b7c0d84fcfe

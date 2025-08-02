@@ -1,5 +1,12 @@
+<<<<<<< HEAD
 {
     {"task": "Learn Python JSON", "Status": "Incomplete"}
     {"task": "Build a To-Do App", "Status": "Complete"}
 
+=======
+{
+    {"task": "Learn Python JSON", "Status": "Incomplete"}
+    {"task": "Build a To-Do App", "Status": "Complete"}
+
+>>>>>>> 5776d637b558ed6ad1589ad51c196b7c0d84fcfe
 }

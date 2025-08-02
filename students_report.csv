@@ -1,4 +1,11 @@
+<<<<<<< HEAD
 Name,Math,Science,English,Average,Status
 Alice,85,90,88,87.67,Pass
 Bob,75,80,72,75.67,Pass
 Charlie,95,98,97,96.67,Pass
+=======
+Name,Math,Science,English,Average,Status
+Alice,85,90,88,87.67,Pass
+Bob,75,80,72,75.67,Pass
+Charlie,95,98,97,96.67,Pass
+>>>>>>> 5776d637b558ed6ad1589ad51c196b7c0d84fcfe
